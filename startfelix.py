@@ -1,1 +1,1 @@
-print("dit is door mij gezegd")  # felix Johnny
+print("dit is door mij gezegd")  # felix Felix && Johnny
